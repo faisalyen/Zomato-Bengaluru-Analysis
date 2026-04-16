@@ -44,5 +44,10 @@ This project provides a comprehensive end-to-end data analysis of the restaurant
 * `Zomato_Analysis.pbix` - The Power BI dashboard file.
 * `screenshots/` - Images of the dashboard and code outputs.
 
+## 📊 Dataset Information
+The analysis is based on the Zomato Bangalore Restaurants dataset. 
+
+* **Original Dataset:** [Download Raw CSV from Kaggle](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
+* **Processed Data:** The cleaned and compressed version used for this analysis is available in the `data/` folder as `zomato_clean.zip`.
 ---
 **Contact:** [faisal19022@gmail.com](mailto:faisal19022@gmail.com) | [LinkedIn](https://www.linkedin.com/faisalyen)
